@@ -1,1 +1,1 @@
-# Crop-Production-Prediction
+Agriculture plays a vital role in the economy, and accurate crop production forecasting is crucial for effective planning and informed decision-making. This project focuses on building a regression model to predict crop production (in tons) using key agricultural variables such as area harvested (in hectares), yield (in kg/ha), and the year. The model will be applied to various crops cultivated within a specific region.
